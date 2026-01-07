@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A physics PhD dropout exploring \"thin spaces\" between dimensions discovers that a broom closet in a Reykjavik hostel opens onto somewhere else entirely - and steps through, never to return.",
     "long": ""
   },
   "death_type": "Dimension Portal",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some doors only open one way."
 }
